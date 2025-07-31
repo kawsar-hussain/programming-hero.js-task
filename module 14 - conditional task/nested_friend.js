@@ -14,3 +14,5 @@ if (myScore > 80) {
 } else {
   console.log("mai bahut peresan main hoo");
 }
+
+//
